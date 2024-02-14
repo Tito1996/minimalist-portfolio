@@ -1,15 +1,29 @@
 ---
+import { basics } from "@cv";
+
+interface Props {
+  title: string;
+}
+
 const title = "Vicente | Portfolio";
+const { image, summary, url } = basics;
 ---
 
 <!doctype html>
 <html lang="es">
   <head>
     <meta charset="utf-8" />
-    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <title>{title}</title>
+    <meta name="description" content={summary} />
     <meta name="viewport" content="width=device-width" />
-    <meta name="generator" content={Astro.generator} />
-    <title>Vicente | Portfolio</title>
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <link rel="preload" as="image" href={image} />
+
+    <meta property="og:url" content={url} />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content={title} />
+    <meta property="og:description" content={summary} />
+    <meta property="og:image" content="" />
   </head>
   <body>
     <slot />
@@ -66,10 +80,32 @@ const title = "Vicente | Portfolio";
   }
 
   p {
-    color: #777;
-    font-size: 1.2rem;
+    color: #666;
+    font-size: 1.3rem;
     line-height: 1.5;
     margin: 0;
     text-wrap: pretty;
+  }
+
+  .print {
+    display: none !important;
+  }
+
+  @media print {
+    .no-print {
+      display: none !important;
+    }
+
+    .print {
+      display: block !important;
+    }
+
+    astro-dev-toolbar {
+      display: none !important;
+    }
+
+    article {
+      break-inside: avoid;
+    }
   }
 </style>

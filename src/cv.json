@@ -1,36 +1,78 @@
 {
     "basics": {
-      "name": "John Doe",
-      "label": "Programmer",
-      "image": "",
-      "email": "john@gmail.com",
-      "phone": "(912) 555-4321",
-      "url": "https://johndoe.com",
-      "summary": "A summary of John Doe…",
+      "name": "Vicente Gavilà Buigues",
+      "label": "Programador Full Stack, con 3 años de experiencia",
+      "image": "/me.webp",
+      "email": "vicentegb1996@gmail.com",
+      "phone": "(+34) 649774528",
+      "url": "https://vicentecurriculum.netfily.com",
+      "summary": "He trabajado como Front End Developer anteriormente, pero ahora estoy de Full Stack Developer en Viewnext para un proyecto de gestion de tramites online. Vivo en Xàbia, España.",
       "location": {
-        "address": "2712 Broadway St",
-        "postalCode": "CA 94115",
-        "city": "San Francisco",
-        "countryCode": "US",
-        "region": "California"
+        "address": "",
+        "postalCode": "03730",
+        "city": "Xàbia",
+        "countryCode": "ES",
+        "region": "España"
       },
-      "profiles": [{
-        "network": "Twitter",
-        "username": "john",
-        "url": "https://twitter.com/john"
-      }]
+      "profiles": [
+        {
+          "network": "LinkedIn",
+          "username": "Vicente",
+          "url": "https://twitter.com/john"
+        },
+        {
+          "network": "Github",
+          "username": "Vicente",
+          "url": "https://twitter.com/john"
+        }
+    ]
     },
-    "work": [{
-      "name": "Company",
-      "position": "President",
-      "url": "https://company.com",
-      "startDate": "2013-01-01",
-      "endDate": "2014-01-01",
-      "summary": "Description…",
-      "highlights": [
-        "Started the company"
-      ]
-    }],
+    "work": [
+      {
+        "name": "Viewnext",
+        "position": "Mid Full Stack Developer",
+        "url": "https://company.com",
+        "startDate": "2023-08-01",
+        "endDate": null,
+        "summary": "Description…",
+        "highlights": [
+          "Started the company"
+        ]
+      },
+      {
+        "name": "DXC",
+        "position": "Junior Front End Developer",
+        "url": "https://company.com",
+        "startDate": "2021-11-02",
+        "endDate": "2023-07-30",
+        "summary": "Description…",
+        "highlights": [
+          "Started the company"
+        ]
+      },
+      {
+        "name": "Mimmo Bag",
+        "position": "Web Developer",
+        "url": "https://company.com",
+        "startDate": "2021-09-01",
+        "endDate": "2021-12-01",
+        "summary": "Description…",
+        "highlights": [
+          "Started the company"
+        ]
+      },
+      {
+        "name": "London Restaurant Game",
+        "position": "Freelance Web Developer",
+        "url": "https://company.com",
+        "startDate": "2021-03-01",
+        "endDate": "2021-09-01",
+        "summary": "Description…",
+        "highlights": [
+          "Started the company"
+        ]
+      }
+    ],
     "volunteer": [{
       "organization": "Organization",
       "position": "Volunteer",
@@ -97,14 +139,17 @@
       "name": "Jane Doe",
       "reference": "Reference…"
     }],
-    "projects": [{
-      "name": "Project",
-      "startDate": "2019-01-01",
-      "endDate": "2021-01-01",
-      "description": "Description...",
-      "highlights": [
-        "Won award at AIHacks 2016"
-      ],
-      "url": "https://project.com/"
-    }]
+    "projects": [
+      {
+        "name": "mars.codes",
+        "isActive": true,
+        "description": "Historia interactiva con retos de programación para viajar a Marte",
+        "highlights": [
+          "Elige tu propia aventura",
+          "En desarrollo"
+        ],
+        "url": "https://mars.codes",
+        "github": ""
+      }
+    ]
 }
