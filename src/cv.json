@@ -34,9 +34,9 @@
         "url": "https://company.com",
         "startDate": "2023-08-01",
         "endDate": null,
-        "summary": "Description…",
+        "summary": "Actualmente trabajo en otro proyecto de gestión de tramites online, me encargo de las tareas de front y de back, además de tests unitarios, de calidad de código y de accesibilidad.",
         "highlights": [
-          "Started the company"
+          "HTML", "CSS", "Typescript", "Angular", "Java", "Spring", "SonarQ", "Jest"
         ]
       },
       {
@@ -45,32 +45,269 @@
         "url": "https://company.com",
         "startDate": "2021-11-02",
         "endDate": "2023-07-30",
-        "summary": "Description…",
+        "summary": "El proyecto en el que trabajé era de gestión de tramites online, me encargaba de las tareas de front y el análisis de los funcionales para crear y determinar las horas de trabajo de los nuevos desarrollos.",
         "highlights": [
-          "Started the company"
+          "HTML", "CSS", "Typescript", "Angular", "SonarQ"
         ]
       },
       {
         "name": "Mimmo Bag",
         "position": "Web Developer",
-        "url": "https://company.com",
+        "url": "",
         "startDate": "2021-09-01",
         "endDate": "2021-12-01",
-        "summary": "Description…",
+        "summary": "Me encargué de desarrollar la pagina web de Mimmo Bag, una startup de alquiler de bolsos de lujo, pero por falta de financiación se paró el proyecto.",
         "highlights": [
-          "Started the company"
+          "HTML", "CSS", "Javascript", "Wordpress", "PHP", "Elementor"
         ]
       },
       {
-        "name": "London Restaurant Game",
+        "name": "City Restaurant Game",
         "position": "Freelance Web Developer",
-        "url": "https://company.com",
+        "url": "https://www.cityrestaurantgame.com",
         "startDate": "2021-03-01",
         "endDate": "2021-09-01",
-        "summary": "Description…",
+        "summary": "Me encargué de desarrollar la pagina web de London Restaurant Game, una startup que consistia en un juego de tablero en el que ganabas puntos que se podian canjear por tiquets de restaurantes.",
         "highlights": [
-          "Started the company"
+          "HTML", "CSS", "Javascript", "PHP"
         ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "Trebol Formación",
+        "url": "https://institution.com/",
+        "area": "Desarrollo Web",
+        "studyType": "Certificado de Profesionalidad de grado 2 (FP)",
+        "startDate": "2020-09-01",
+        "endDate": "2021-08-01",
+        "score": "8.0",
+        "courses": [
+          "DB1101 - Basic SQL"
+        ]
+      },
+      {
+        "institution": "Universidad Politecnica de Valencia",
+        "url": "https://institution.com/",
+        "area": "Certificado de Desarrollador Full Stack MEAN",
+        "studyType": "Certificado de Profesionalidad",
+        "startDate": "2019-09-01",
+        "endDate": "2020-08-01",
+        "score": "9.0",
+        "courses": [
+          "DB1101 - Basic SQL"
+        ]
+      }
+    ],
+    "skills": [
+      {
+        "name": "HTML",
+        "level": "Avanzado",
+        "keywords": [
+          "Web development",
+          "Front end"
+        ]
+      },
+      {
+        "name": "CSS",
+        "level": "Avanzado",
+        "keywords": [
+          "Web development",
+          "Front end"
+        ]
+      },
+      {
+        "name": "JavaScript",
+        "level": "Avanzado",
+        "keywords": [
+          "Web development",
+          "Front end"
+        ]
+      },
+      {
+        "name": "TypeScript",
+        "level": "Avanzado",
+        "keywords": [
+          "Web development",
+          "Front end"
+        ]
+      },
+      {
+        "name": "Angular",
+        "level": "Avanzado",
+        "keywords": [
+          "Web development",
+          "Front end",
+          "Framework"
+        ]
+      },
+      {
+        "name": "Vue.js",
+        "level": "Principiante",
+        "keywords": [
+          "Web development",
+          "Front end",
+          "Framework"
+        ]
+      },
+      {
+        "name": "Node.js",
+        "level": "Intermedio",
+        "keywords": [
+          "Web development",
+          "Back end"
+        ]
+      },
+      {
+        "name": "Express.js",
+        "level": "Principiante",
+        "keywords": [
+          "Web development",
+          "Back end"
+        ]
+      },
+      {
+        "name": "Java",
+        "level": "Intermedio",
+        "keywords": [
+          "Desarrollo de aplicaciones",
+          "Back end"
+        ]
+      },
+      {
+        "name": "Spring Framework",
+        "level": "Intermedio",
+        "keywords": [
+          "Desarrollo de aplicaciones",
+          "Back end",
+          "Framework"
+        ]
+      },
+      {
+        "name": "Hibernate",
+        "level": "Principiante",
+        "keywords": [
+          "Desarrollo de aplicaciones",
+          "Back end",
+          "ORM"
+        ]
+      },
+      {
+        "name": "MongoDB",
+        "level": "Intermedio",
+        "keywords": [
+          "Web development",
+          "Back end",
+          "Database"
+        ]
+      },
+      {
+        "name": "SQL",
+        "level": "Intermedio",
+        "keywords": [
+          "Web development",
+          "Back end",
+          "Database"
+        ]
+      },
+      {
+        "name": "Jest",
+        "level": "Principiante",
+        "keywords": [
+          "Testing",
+          "Unit testing"
+        ]
+      },      
+      {
+        "name": "JUnit",
+        "level": "Principiante",
+        "keywords": [
+          "Pruebas",
+          "Unit testing"
+        ]
+      },
+      {
+        "name": "Webpack",
+        "level": "Intermedio",
+        "keywords": [
+          "Web development",
+          "Build tool"
+        ]
+      },
+      {
+        "name": "Maven",
+        "level": "Intermedio",
+        "keywords": [
+          "Gestión de proyectos",
+          "Build tool"
+        ]
+      },
+      {
+        "name": "Git",
+        "level": "Avanzado",
+        "keywords": [
+          "Control de versiones",
+          "Colaboración"
+        ]
+      }
+    ],
+    "certificates": [{
+      "name": "Certificate",
+      "date": "2021-11-07",
+      "issuer": "Company",
+      "url": "https://certificate.com"
+    }],
+    "projects": [
+      {
+        "name": "City Restaurant Game",
+        "isActive": true,
+        "description": "Web que incluye juego de tablero tipo trivial",
+        "highlights": [
+          "Juego de tablero",
+          "Trivial",
+          "No propio"
+        ],
+        "url": "https://www.cityrestaurantgame.com",
+        "github": ""
+      },
+      {
+        "name": "Las aventuras de Pa",
+        "isActive": false,
+        "description": "Juego RPG en desarrollo de estilo retro",
+        "highlights": [
+          "Pixelart",
+          "RPG",
+          "En desarrollo",
+          "Propio"
+        ],
+        "url": "#",
+        "github": ""
+      },
+      {
+        "name": "El Cajón del aprendizaje",
+        "isActive": false,
+        "description": "Web donde se engloban diferentes lecciones y trucos que he aprendido en cursos o trabajando",
+        "highlights": [
+          "Web development",
+          "En desarrollo",
+          "Propio"
+        ],
+        "url": "#",
+        "github": ""
+      }
+    ],
+    "languages": [
+      {
+        "language": "Castellano",
+        "fluency": "Nativo"
+      },
+      {
+        "language": "Valenciano",
+        "fluency": "Nativo"
+      },
+      {
+        "language": "Inglés",
+        "fluency": "Intermedio"
       }
     ],
     "volunteer": [{
@@ -84,29 +321,11 @@
         "Awarded 'Volunteer of the Month'"
       ]
     }],
-    "education": [{
-      "institution": "University",
-      "url": "https://institution.com/",
-      "area": "Software Development",
-      "studyType": "Bachelor",
-      "startDate": "2011-01-01",
-      "endDate": "2013-01-01",
-      "score": "4.0",
-      "courses": [
-        "DB1101 - Basic SQL"
-      ]
-    }],
     "awards": [{
       "title": "Award",
       "date": "2014-11-01",
       "awarder": "Company",
       "summary": "There is no spoon."
-    }],
-    "certificates": [{
-      "name": "Certificate",
-      "date": "2021-11-07",
-      "issuer": "Company",
-      "url": "https://certificate.com"
     }],
     "publications": [{
       "name": "Publication",
@@ -114,19 +333,6 @@
       "releaseDate": "2014-10-01",
       "url": "https://publication.com",
       "summary": "Description…"
-    }],
-    "skills": [{
-      "name": "Web Development",
-      "level": "Master",
-      "keywords": [
-        "HTML",
-        "CSS",
-        "JavaScript"
-      ]
-    }],
-    "languages": [{
-      "language": "English",
-      "fluency": "Native speaker"
     }],
     "interests": [{
       "name": "Wildlife",
@@ -138,18 +344,5 @@
     "references": [{
       "name": "Jane Doe",
       "reference": "Reference…"
-    }],
-    "projects": [
-      {
-        "name": "mars.codes",
-        "isActive": true,
-        "description": "Historia interactiva con retos de programación para viajar a Marte",
-        "highlights": [
-          "Elige tu propia aventura",
-          "En desarrollo"
-        ],
-        "url": "https://mars.codes",
-        "github": ""
-      }
-    ]
+    }]
 }
