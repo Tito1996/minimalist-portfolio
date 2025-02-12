@@ -29,12 +29,34 @@
     },
     "work": [
       {
-        "name": "Viewnext",
+        "name": "Quality Solutions - Prosegur",
+        "position": "Mid Full Stack Developer",
+        "url": "https://company.com",
+        "startDate": "2024-06-01",
+        "endDate": null,
+        "summary": "Actualmente formo parte del equipo de desarrollo del portal de RRHH de prosegur para españa y portugal, me ecargo del desarrollo del nuevo portal de gestion de nominas en Angular y del portal de RRHH con Oracle Cloud y Azure",
+        "highlights": [
+          "HTML", "CSS", "Typescript", "Angular", "Java", "Spring", "SonarQ", "Jest", "Azure", "Jenkins"
+        ]
+      },
+      {
+        "name": "Grupo Digital - Santander",
+        "position": "Mid Full Stack Developer",
+        "url": "https://company.com",
+        "startDate": "2024-04-01",
+        "endDate": "2024-05-30",
+        "summary": "Trabajé con Santander en un portal de onboarding para inversores, me encargué de las tareas de front y de back, además de tests unitarios, de calidad de código y de accesibilidad.",
+        "highlights": [
+          "HTML", "CSS", "Typescript", "Angular", "Java", "Spring", "SonarQ", "Jest"
+        ]
+      },
+      {
+        "name": "Grupo Digital - Viewnext",
         "position": "Mid Full Stack Developer",
         "url": "https://company.com",
         "startDate": "2023-08-01",
-        "endDate": null,
-        "summary": "Actualmente trabajo en otro proyecto de gestión de tramites online, me encargo de las tareas de front y de back, además de tests unitarios, de calidad de código y de accesibilidad.",
+        "endDate": "2024-03-31",
+        "summary": "Trabajé con Viewnext en un proyecto de gestión de tramites online, me encargué de las tareas de front y de back, además de tests unitarios, de calidad de código y de accesibilidad.",
         "highlights": [
           "HTML", "CSS", "Typescript", "Angular", "Java", "Spring", "SonarQ", "Jest"
         ]
