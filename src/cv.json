@@ -1,12 +1,12 @@
 {
     "basics": {
       "name": "Vicente Gavilà Buigues",
-      "label": "Programador Full Stack, con 3 años de experiencia",
+      "label": "Programador Full Stack, con 4 años de experiencia",
       "image": "/me.webp",
       "email": "vicentegb1996@gmail.com",
       "phone": "(+34) 649774528",
       "url": "https://vgavila.netlify.app/",
-      "summary": "He trabajado como Front End Developer anteriormente, pero ahora estoy de Full Stack Developer en Viewnext para un proyecto de gestion de tramites online. Vivo en Xàbia, España.",
+      "summary": "Actualmente trabajo como Full Stack Developer en Quality Solution desarollando y manteniendo el portal de RRHH de Prosegur-España.",
       "location": {
         "address": "",
         "postalCode": "44002",
@@ -18,12 +18,12 @@
         {
           "network": "LinkedIn",
           "username": "Vicente",
-          "url": "https://twitter.com/john"
+          "url": "www.linkedin.com/in/vigabui"
         },
         {
           "network": "Github",
           "username": "Vicente",
-          "url": "https://twitter.com/john"
+          "url": "https://github.com/Tito1996"
         }
     ]
     },
