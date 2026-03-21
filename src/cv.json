@@ -5,8 +5,8 @@
       "image": "/me.webp",
       "email": "vicentegb1996@gmail.com",
       "phone": "(+34) 649774528",
-      "url": "https://vicentecurriculum.netfily.com",
-      "summary": "Actualmente trabajo como Full Stack Developer en Quality Solution desarollando y manteniendo el portal de RRHH de Prosegur-España.",
+      "url": "https://vgavila.netlify.app/",
+      "summary": "Actualmente trabajo como Full Stack Developer en Capitole desarollando y manteniendo el aplicaciones web.",
       "location": {
         "address": "",
         "postalCode": "03730",
@@ -113,7 +113,7 @@
         "area": "Desarrolo de aplicaciones Web",
         "studyType": "Certificado de Profesionalidad de grado 3 (FP Superior)",
         "startDate": "2025-01-01",
-        "endDate": "2021-08-31",
+        "endDate": "2025-08-31",
         "score": "8.0",
         "courses": [
           "DB1101 - Basic SQL"
