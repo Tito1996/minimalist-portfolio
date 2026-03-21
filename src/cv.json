@@ -316,6 +316,18 @@
         "github": ""
       },
       {
+        "name": "Vault dels secrets",
+        "isActive": true,
+        "description": "App web para gestionar contraseñas mediante un fichero json cifrado",
+        "highlights": [
+          "Angular 21",
+          "encriptacion",
+          "Propio"
+        ],
+        "url": "https://vault-secret.netlify.app/",
+        "github": "https://github.com/Tito1996/vault-dels-secrets"
+      },
+      {
         "name": "Las aventuras de Pa",
         "isActive": false,
         "description": "Juego RPG en desarrollo de estilo retro",
