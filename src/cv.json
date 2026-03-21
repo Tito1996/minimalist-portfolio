@@ -28,12 +28,23 @@
     ]
     },
     "work": [
+        {
+        "name": "Capitole",
+        "position": "Senior Full Stack Developer",
+        "url": "https://www.capitole-consulting.com/",
+        "startDate": "2026-02-01",
+        "endDate": null,
+        "summary": "Actualmente formo parte del equipo de desarrollo de una empresa lider en el sector de alarmas, me ecargo del desarrollo de aplicaciones y plugins en Angular y de los servicios que estos consumen con Spring Boot",
+        "highlights": [
+          "Angular", "Spring Boot", "MongoDB", "SonarQ", "Vitest", "Azure", "Jenkins", "Kubernetes"
+        ]
+      },
       {
         "name": "Quality Solutions - Prosegur",
         "position": "Mid Full Stack Developer",
         "url": "https://company.com",
         "startDate": "2024-06-01",
-        "endDate": null,
+        "endDate": "2026-01-31",
         "summary": "Actualmente formo parte del equipo de desarrollo del portal de RRHH de prosegur para españa y portugal, me ecargo del desarrollo del nuevo portal de gestion de nominas en Angular y del portal de RRHH con Oracle Cloud y Azure",
         "highlights": [
           "HTML", "CSS", "Typescript", "Angular", "Java", "Spring", "SonarQ", "Jest", "Azure", "Jenkins"
@@ -96,10 +107,22 @@
       }
     ],
     "education": [
+        {
+        "institution": "Formación universitaria",
+        "url": "https://institution.com/",
+        "area": "Desarrolo de aplicaciones Web",
+        "studyType": "Certificado de Profesionalidad de grado 3 (FP Superior)",
+        "startDate": "2025-01-01",
+        "endDate": "2021-08-31",
+        "score": "8.0",
+        "courses": [
+          "DB1101 - Basic SQL"
+        ]
+      },
       {
         "institution": "Trebol Formación",
         "url": "https://institution.com/",
-        "area": "Desarrollo Web",
+        "area": "Desarrolo Web",
         "studyType": "Certificado de Profesionalidad de grado 2 (FP)",
         "startDate": "2020-09-01",
         "endDate": "2021-08-01",
